@@ -9,7 +9,4 @@ For that we will first perform following operations:
 5. pip freeze > requirements.txt
 
 practice/month-01/explore_csv.py
-
-Step 1:
-ran a simple file handling code, printing the headers, the data, etc.
-
+check this for further details
